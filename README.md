@@ -360,9 +360,9 @@ If you read through one of these, you should have all the data structures and al
 
 I haven't read these two, but they are highly rated and written by Sedgewick. He's awesome.
 
-- [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.in/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
-- [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.in/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
-- [ ] [Open Data Structures in C++](https://opendatastructures.org/ods-cpp.pdf)
+- [ ] [Book -Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.in/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
+- [ ] [Book -Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.in/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
+- [ ] [Book PDF -pen Data Structures in C++](https://opendatastructures.org/ods-cpp.pdf)
     - Rich and detailed collection of Data Structures and Algorithms
     - Great for first-timers
 
@@ -370,26 +370,26 @@ If you have a better recommendation for C++, please let me know. Looking for a c
 
 ### Java
 
-- [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.in/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
-    - videos with book content (and Sedgewick!) on coursera:
+- [ ] [BOOK -Algorithms (Sedgewick and Wayne)](https://www.amazon.in/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
+    - videos(COURSE) with book content (and Sedgewick!) on **coursera**:
         - [Algorithms I](https://www.coursera.org/learn/algorithms-part1)
         - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
 
 OR:
 
-- [ ] [Data Structures and Algorithms in Java](https://www.amazon.in/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
+- [ ] [BOOK -Data Structures and Algorithms in Java](https://www.amazon.in/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
     - by Goodrich, Tamassia, Goldwasser
     - used as optional text for CS intro course at UC Berkeley
     - see my book report on the Python version below. This book covers the same topics
 
 ### Python
 
-- [ ] [Data Structures and Algorithms in Python](https://www.amazon.in/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
+- [ ] [BOOK -Data Structures and Algorithms in Python](https://www.amazon.in/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
     - by Goodrich, Tamassia, Goldwasser
     - I loved this book. It covered everything and more
     - Pythonic code
     - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
-- [ ] [Open Data Structures in Python](https://opendatastructures.org/ods-python.pdf)
+- [ ] [BOOK PDF-Open Data Structures in Python](https://opendatastructures.org/ods-python.pdf)
 
 ## Before you Get Started
 
@@ -404,9 +404,7 @@ through my notes and making flashcards, so I could review.
 
 Please, read so you won't make my mistakes:
 
-[Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/).
-
-A course recommended to me (haven't taken it): [Learning how to Learn](https://www.coursera.org/learn/learning-how-to-learn).
+[Learning how to Learn](https://www.coursera.org/learn/learning-how-to-learn).
 
 ### 2. Use Flashcards
 
@@ -511,7 +509,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
 - Nothing to implement
-- There are a lot of videos here. Just watch enough until you understand it. You can always come back and review
+- There are a lot of videos here. Just watch enough until you understand it (_No need to watch all_). You can always _come back and review_
 - If some lectures are too mathy, you can jump down to the bottom and watch the discrete mathematics videos to get the background knowledge
 - [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [x] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
@@ -526,7 +524,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - [ ] [UC Berkeley Big Omega (video)](https://archive.org/details/ucberkeley_webcast_ca3e7UVmeUc)
 - [x] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [x] [Illustrating "Big O" (video)](https://www.coursera.org/lecture/algorithmic-thinking-1/illustrating-big-o-YVqzv)
+- [x] [Algorithms Lecture 1 -- Introduction to asymptotic notations](https://www.youtube.com/watch?v=aGjL7YXI31Q)
 - [ ] TopCoder (includes recurrence relations and master theorem):
+   
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
