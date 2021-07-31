@@ -504,8 +504,6 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
     - [x] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
     
-- [ ] **Get Started with the C++** 
-    - [ ] [C++ resource from GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
 - Nothing to implement
