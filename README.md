@@ -546,7 +546,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Data Structures
 - ### Compilation 
-	**For C++ Only 👍 : **
+	**For C++ Only 👍 :**
 	[C++ summary in One Video](https://www.youtube.com/watch?v=Rub-JsjMhWY)
 - ### Arrays
     - Implement an automatically resizing vector.
