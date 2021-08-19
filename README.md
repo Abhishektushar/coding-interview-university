@@ -562,10 +562,12 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [x] capacity() - number of items it can hold
         - [x] is_empty()
         - [x] at(index) - returns item at given index, blows up if index out of bounds 👉[link](https://youtu.be/Rub-JsjMhWY?t=1735)
-        - [ ] push(item)
         - [x] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right ➡️ [resource](https://www.geeksforgeeks.org/vector-insert-function-in-c-stl/)
         - [ ] prepend(item) - can use insert above at index 0
-        - [ ] pop() - remove from end, return value
+        - [x] push(item) //in C++ => push_back(item) [UtubeLink](https://youtu.be/Rub-JsjMhWY?t=1791)
+        - [x] pop() - //in c++ =>pop_back() - remove from end, return value 👆
+        - [x] front() -vectorName.front() - to get first element of Vector 👆
+        - [x] back() -vectorName.back() -to get last element of Vector 👆
         - [x] clear() - clears the vector ➡️[resourse](https://www.geeksforgeeks.org/vector-erase-and-clear-in-cpp/)
         - [x] delete(index) - delete item at index, shifting all trailing elements left
         - [x] remove(item) - looks for value and removes index holding it (even if in multiple places)
